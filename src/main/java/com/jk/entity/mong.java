@@ -14,7 +14,7 @@ import java.util.Date;
 @Document(collection = "test")
 public class mong  {
 
-
+    //啊实打实的
     private  Integer mid;
     private  String msex;
     private  String mname;
