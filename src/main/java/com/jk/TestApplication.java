@@ -15,6 +15,10 @@ import org.springframework.http.converter.HttpMessageConverter;
 @MapperScan("com.jk.mapper")
 public class TestApplication {
 //记号记号记号记号
+
+ //大苏打倒萨首发上市发售
+
+
     protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
         return builder.sources(TestApplication.class);
     }
